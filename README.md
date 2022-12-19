@@ -1,7 +1,5 @@
 ### Hi there 👋 😸
 
-[![@vinnyxp's Holopin board](https://holopin.me/vinnyxp)](https://holopin.io/@vinnyxp)
-
 
 <!--
 **VinnyXP/VinnyXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
