@@ -38,7 +38,7 @@ Languages and Tools
 <br>
 <br>
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=qadeerassan&style=flat-square&color=blue" alt="Views Counter"/> 
+  <img src="https://komarev.com/ghpvc/?username=vinnyxp&style=flat-square&color=green" alt="Views Counter"/> 
 </div>
 
 <!--
