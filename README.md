@@ -34,7 +34,8 @@ Languages and Tools
 <img align="left" alt="React.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-
+<br>
+<br>
 ![VinnyXP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyxp&show_icons=true&theme=tokyonight)
 
 
