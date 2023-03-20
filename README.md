@@ -36,8 +36,8 @@ Languages and Tools
 </div>
 <br>
 <br>
-![VinnyXP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyxp&show_icons=true&theme=tokyonight)
 
+![VinnyXP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyxp&show_icons=true&theme=tokyonight)
 
 <br>
 <br>
