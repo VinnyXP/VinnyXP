@@ -1,9 +1,5 @@
 # Welcome to my GitHub! ☺️
 
-<h1 align="left"> 
-  Vinh Pham
-</h1>
-
 <div align="left" id="badges">
   <a href="https://www.linkedin.com/in/vinh-pham-5249a5241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
