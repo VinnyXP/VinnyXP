@@ -1,4 +1,4 @@
-### Hi there 👋 😸
+# Welcome to my GitHub! ☺️
 
 <h1 align="left"> 
   Vinh Pham
