@@ -1,7 +1,7 @@
 # Welcome to my GitHub! ☺️
 
 <div align="left" id="badges">
-  <a href="https://www.linkedin.com/in/vinh-pham-5249a5241/">
+  <a href="https://www.linkedin.com/in/vinh-x-pham/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vinnyxp.github.io/">
@@ -13,7 +13,7 @@
 <h2> About </h2>
 <div>
   <p>
-    B.S. Computer Science @ Cal State East Bay
+    B.S. Computer Science @ California State University, East Bay
   </p>
   <p>
     A.S Computer Science @ Ohlone College
