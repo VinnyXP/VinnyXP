@@ -36,8 +36,6 @@ Languages and Tools
 <br>
 <br>
 
-![VinnyXP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyxp&show_icons=true&theme=tokyonight)
-
 <br>
 Profile Pic from here: https://picrew.me/ja/image_maker/197705
 
