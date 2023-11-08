@@ -10,14 +10,12 @@
 </div>
 
 
-<h2> About </h2>
+<h2> About Me </h2>
 <div>
-  <p>
-    B.S. Computer Science @ California State University, East Bay
-  </p>
-  <p>
-    A.S Computer Science @ Ohlone College
-  </p>
+
+- 😎 I'm the author of professional development guides to help students and job seekers
+- ⭐ I like to learn new tech and build things
+- 💪 I enjoy working with Python, Flask, Dash, React, and TypeScript
 
 </div>
 <br>
