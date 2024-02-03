@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a QR Code Generator<be>
-🌱 I’m currently learning microprocessors, web development, info security, and video editing<be>
-💬 Ask me about cooking or traveling<be>
+🔭 I’m currently working on a QR Code Generator</br>
+🌱 I’m currently learning microprocessors, web development, info security, and video editing</br>
+💬 Ask me about cooking or traveling</br>
 ⚡ I love going to hackathons to learn new tech and build things
 
 
