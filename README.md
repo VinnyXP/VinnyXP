@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Hacker Match</br>
-🌱 I’m currently learning photography, writing, XR development, and entrepreneurship</br>
-💬 Ask me about cooking or traveling</br>
-⚡ I love going to hackathons to learn new tech and build things
+🔭 I’m currently working on a project in the hackathon space</br>
+🌱 I’m currently learning embedded systems, building in public, and XR development</br>
+💬 I love going to hackathons to learn new tech and build things</br>
+⭐ Interests: XR, AI, Data Visualization, Hardware, Cooking, and Writing
 
 
 ## 🌐 Socials:
